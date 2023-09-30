@@ -28,19 +28,21 @@ Research profile
 
 Key publications
 ======
----
+
+> Phase Unwrapping of Color Doppler Echocardiography using Deep Learning
+> IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (2023)
+> Hang Jung Ling, Olivier Bernard, Nicolas Ducros, Damien Garcia
 
 > Echocardiography Segmentation with Enforced Temporal Consistency  
 > IEEE Transactions on Medical Imaging (2022)
 > Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
 
----
-
 > Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation  
 > IEEE Transactions on Medical Imaging (2022)
 > Ewan Evain, Yunyun Sun, Khuram Faraz, Damien Garcia, Eric Saloux, Bernhard L. Gerber, Mathieu de Craene, Olivier Bernard
 
----
-
+> CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation
+> MICCAI (2022)
+> Thierry Judge, Olivier Bernard, Agisilaos Chartsias, Mihaela Porumb, Arian Beqiri, Pierre-Marc Jodoin
 
 
