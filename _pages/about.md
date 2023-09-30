@@ -25,10 +25,14 @@ Research profile
 - Vector flow imaging, Intracardiac blood flow
 - Cardiac imaging, echocardiography, realistic simulations
 
-&nbsp;
+<br />
 
 Key publications
 ======
+
+> **Asymmetric Contour Uncertainty Estimation for Medical Image Segmentation** <br>
+> MICCAI (2023) <br>
+> Thierry Judge, Olivier Bernard, Woo-Jin Cho Kim, Alberto Gomez, Agis Chartsias, Pierre-Marc Jodoin
 
 > **Phase Unwrapping of Color Doppler Echocardiography using Deep Learning** <br>
 > IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (2023) <br>
