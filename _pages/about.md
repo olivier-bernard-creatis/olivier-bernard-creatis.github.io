@@ -14,7 +14,6 @@ redirect_from:
 - Associate editor of the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 - Previously, Associate editor of the IEEE Transactions on Image Processing ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 - Previously, Invited professor at the Swiss Federal Institute of Technology ([EPFL](https://www.epfl.ch/en/)) at the Signal Processing Laboratory ([LTS5](https://www.epfl.ch/labs/lts5/research/)), Switzerland
-
 <br>
 
 Research profile
@@ -24,7 +23,6 @@ Research profile
 - Uncertainty modeling
 - Vector flow imaging, Intracardiac blood flow
 - Cardiac imaging, echocardiography, realistic simulations
-
 <br>
 
 Key publications
@@ -34,15 +32,15 @@ Key publications
 > IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (2023) <br>
 > Hang Jung Ling, Olivier Bernard, Nicolas Ducros, Damien Garcia
 
-> Echocardiography Segmentation with Enforced Temporal Consistency <br>
+> **Echocardiography Segmentation with Enforced Temporal Consistency** <br>
 > IEEE Transactions on Medical Imaging (2022) <br>
 > Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
 
-> Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation <br>
+> **Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation** <br>
 > IEEE Transactions on Medical Imaging (2022) <br>
 > Ewan Evain, Yunyun Sun, Khuram Faraz, Damien Garcia, Eric Saloux, Bernhard L. Gerber, Mathieu de Craene, Olivier Bernard
 
-> CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation <br>
+> **CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation** <br>
 > MICCAI (2022) <br>
 > Thierry Judge, Olivier Bernard, Agisilaos Chartsias, Mihaela Porumb, Arian Beqiri, Pierre-Marc Jodoin
 
