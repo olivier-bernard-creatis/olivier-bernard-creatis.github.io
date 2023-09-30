@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivier Bernard"
 title_separator          : "-"
 name                     : &name "Olivier Bernard"
-description              : &description "Professor at the university of Lyon (INSA) and Deputy Director of the research CREATIS lab."
+description              : &description "Full professor at the University of Lyon (INSA) and the Creatis lab."
 url                      : https://olivier-bernard-creatis.github.io/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olivier-bernard-creatis/olivier-bernard-creatis.github.io"

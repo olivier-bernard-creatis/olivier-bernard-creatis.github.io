@@ -17,12 +17,26 @@ redirect_from:
 
 
 
-Research interest
+Research profile
 ======
 - Representation learning, heterogeneous data fusion
 - Quantification of clinical indices from imaging
+- Uncertainty modeling
 - Vector flow imaging, Intracardiac blood flow
-- Cardiac imaging, echocardiography
-- Realistic simulation
+- Cardiac imaging, echocardiography, realistic simulations
+
+
+Key publications
+======
+---
+> Echocardiography Segmentation with Enforced Temporal Consistency  
+> IEEE Transactions on Medical Imaging (2022)
+> Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
+---
+> Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation  
+> IEEE Transactions on Medical Imaging (2022)
+> Ewan Evain, Yunyun Sun, Khuram Faraz, Damien Garcia, Eric Saloux, Bernhard L. Gerber, Mathieu de Craene, Olivier Bernard
+---
+
 
 
