@@ -29,13 +29,17 @@ Research profile
 Key publications
 ======
 ---
+
 > Echocardiography Segmentation with Enforced Temporal Consistency  
 > IEEE Transactions on Medical Imaging (2022)
 > Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
+
 ---
+
 > Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation  
 > IEEE Transactions on Medical Imaging (2022)
 > Ewan Evain, Yunyun Sun, Khuram Faraz, Damien Garcia, Eric Saloux, Bernhard L. Gerber, Mathieu de Craene, Olivier Bernard
+
 ---
 
 
