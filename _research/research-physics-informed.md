@@ -1,5 +1,5 @@
 ---
-title: "Physics informed deep learning for blood flow quantification"
+title: "Representation learning for gold standard segmentation generation"
 excerpt: "TODO
 <br/><br/>
 <img src='/images/research_physics_informed.png'>"
