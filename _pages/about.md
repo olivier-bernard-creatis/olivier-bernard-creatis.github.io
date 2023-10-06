@@ -17,6 +17,7 @@ redirect_from:
 
 Research profile
 ======
+
 - Representation learning, heterogeneous data fusion
 - Quantification of clinical indices from imaging
 - Uncertainty modeling
