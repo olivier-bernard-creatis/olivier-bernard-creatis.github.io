@@ -7,3 +7,14 @@ collection: research
 ---
 
 This work is currently under investigation by <strong>Arnaud Judge</strong>, a master student co-supervised with <strong>Pierre-Marc Jodoin</strong> Professor at the university of Sherbrooke.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
+
+
