@@ -6,4 +6,4 @@ excerpt: "We are exploring domain adaptation strategies using reinforcement lear
 collection: research
 ---
 
-This is an item in your research. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work is currently under investigation by <strong>Arnaud Judge</strong>, a master student co-supervised with <strong>Pierre-Marc Jodoin</strong> Professor at the university of Sherbrooke.
