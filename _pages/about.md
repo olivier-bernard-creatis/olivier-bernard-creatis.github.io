@@ -14,7 +14,7 @@ redirect_from:
 - Associate editor of the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 - Previously, Associate editor of the IEEE Transactions on Image Processing ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 
-<br>
+<hr align=center width="100">
 
 Research profile
 ======
@@ -25,7 +25,7 @@ Research profile
 - Vector flow imaging, intracardiac blood flow
 - Cardiac imaging, echocardiography, realistic simulations
 
-<hr>
+<hr align=center width="100">
 
 Key publications
 ======
