@@ -1,6 +1,8 @@
 ---
 title: "Domain adaptation for the quantification of clinical indices"
-excerpt: "We are exploring domain adaptation strategies using reinforcement learning to enhance the generalizability of our segmentation models on echocardiographic images<br/><img src='/images/research_domain_adaptation.png'>"
+excerpt: "We are exploring domain adaptation strategies using reinforcement learning to enhance the generalizability of our segmentation models on echocardiographic images
+<br/><br/>
+<img src='/images/research_domain_adaptation.png'>"
 collection: research
 ---
 
