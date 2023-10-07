@@ -7,7 +7,7 @@ collection: research
 ---
 
 We developped a physics-informed deep learning method to estimate vector flow mapping from color Doppler imaging.
-Our solution is based on an NN-UNet which outputs the radial and angular velocity map of the blood flow. The corresponding spatial derivatives are then automatically computed from an autograd layer to build a physical loss. This strategy generates vector flow mapping from color Doppler imaging, facilitating interpretation and analysis of blood flow.   
+Our solution is based on an nnU-Net architecture which outputs the radial and angular velocity map of the blood flow. The corresponding spatial derivatives are then automatically computed from an autograd layer to build a physical loss. This strategy generates vector flow mapping from color Doppler imaging, facilitating interpretation and analysis of blood flow.   
 
 <br>
 <img src='/images/research_physics_informed_full.png'>
