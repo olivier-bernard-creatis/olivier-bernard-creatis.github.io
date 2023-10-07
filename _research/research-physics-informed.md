@@ -6,3 +6,7 @@ excerpt: "TODO
 collection: research
 ---
 
+
+
+<img src='/images/research_physics_informed_full.png'>"
+
