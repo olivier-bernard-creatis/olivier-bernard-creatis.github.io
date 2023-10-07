@@ -8,7 +8,8 @@ collection: research
 
 This work is currently under investigation by <strong>Arnaud Judge</strong>, a master student co-supervised with Pr. <strong>Pierre-Marc Jodoin</strong> at the university of Sherbrooke and expert in AI.
 
-We have developed an nnU-Net architecture that produces highly accurate segmentation scores within intra-observer variability. These results have been validated using a CAMUS data set comprising echocardiographic images from 500 patients. This pilot study demonstrated the effectiveness of the CNN method in solving the problem of segmentation in echocardiographic imaging. However, the problem of generalization remains entirely open. This corresponds to the ability of our method to produce the same quality of results, but on much larger databases with greater heterogeneity in terms of manufacturers, image quality and type of pathology. 
+We have developed an nnU-Net architecture that produces highly accurate segmentation scores within intra-observer variability. This pilot study demonstrated that our solution can reproduce with great fidelity the way in which an expert traces his or her contours during a clinical examination. These results have been validated using a CAMUS data set comprising echocardiographic images from 500 patients. However, the problem of generalization remains entirely open. This corresponds to the ability of our method to produce the same quality of results, but on much larger databases with greater heterogeneity in terms of manufacturers, image quality and type of pathology. 
 
+We are currently trying to solve the problem of generalization in segmentation through domain adaptation. To do this, we have access to a database with over 120,000 echocardiographic image sequences. We are currently investigating various solutions, one of the most promising being based on reinforcement learning.
 
 
