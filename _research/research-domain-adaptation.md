@@ -17,7 +17,7 @@ We have developed an nnU-Net architecture that produces highly accurate segmenta
 
 However, the problem of generalization remains entirely open. This corresponds to the ability of our method to produce the same quality of results, but on much larger databases with greater heterogeneity in terms of manufacturers, image quality and type of pathology. We are currently trying to solve the problem of generalization in segmentation through domain adaptation. To do this, we have access to a database with over 120,000 echocardiographic image sequences. We are currently investigating various solutions, one of the most promising being based on reinforcement learning.
 
-<p float="center">
+<p style="text-align:center;">
   <img src='/images/research_domain_adaptation.png' />
 </p>
 
