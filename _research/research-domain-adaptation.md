@@ -12,4 +12,11 @@ We have developed an nnU-Net architecture that produces highly accurate segmenta
 
 We are currently trying to solve the problem of generalization in segmentation through domain adaptation. To do this, we have access to a database with over 120,000 echocardiographic image sequences. We are currently investigating various solutions, one of the most promising being based on reinforcement learning.
 
+<br>
+
+<p float="left">
+  <img src="/images/research_segmentation_1.gif" width="100" />
+  <img src="/images/research_segmentation_2.gif" width="100" />
+</p>
+
 
