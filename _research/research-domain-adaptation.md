@@ -8,7 +8,7 @@ collection: research
 
 This work is currently under investigation by <strong>Arnaud Judge</strong>, a master student co-supervised with Pr. <strong>Pierre-Marc Jodoin</strong> at the university of Sherbrooke and expert in AI.
 
-We have developed an nnU-Net architecture that produces highly accurate segmentation scores within intra-observer variability. This pilot study demonstrated that our solution can reproduce with great fidelity the way in which an expert traces his or her contours during a clinical examination. These results have been validated using a CAMUS data set comprising echocardiographic images from 500 patients. The images below show two examples of the results we are able to achieve fully automatically.
+We have developed an nnU-Net architecture that produces highly accurate segmentation scores within intra-observer variability. This pilot study demonstrated that our solution can reproduce with great fidelity the way in which an expert traces his or her contours during a clinical examination. These results have been validated using a CAMUS data set comprising echocardiographic images from 500 patients. The image below shows an example of what we can achieve in a fully automatic way.
 
 <p style="text-align: center;">
   <img src="/images/research_segmentation_2.gif" width="300">
