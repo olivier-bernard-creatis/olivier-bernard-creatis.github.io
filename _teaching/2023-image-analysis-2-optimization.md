@@ -1,8 +1,8 @@
 ---
-title: "Neural networks"
+title: "Optimization of neural networks"
 collection: teaching
 type: "Course"
-permalink: /teaching/2023-image-analysis-1-optimization
+permalink: /teaching/2023-image-analysis-2-optimization
 venue: "INSA, university of Lyon, electrical department"
 date: 2023-10-09
 location: "Lyon, France"
