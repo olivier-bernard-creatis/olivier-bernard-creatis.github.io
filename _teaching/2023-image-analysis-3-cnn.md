@@ -12,7 +12,7 @@ French course on convolutional neural network. The following aspects are covered
 
 <br>
 
-[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//teaching_cnn_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_cnn_2023.pdf)
+[![Teaching CNN](https://olivier-bernard-creatis.github.io//images//teaching_cnn_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_cnn_2023.pdf)
 
 
 

@@ -12,7 +12,7 @@ French course on neural network. The following aspects are covered: modeling of 
 
 <br>
 
-[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//teaching_neural_network_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_neural_network_2023.pdf)
+[![Teaching neural network](https://olivier-bernard-creatis.github.io//images//teaching_neural_network_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_neural_network_2023.pdf)
 
 
 

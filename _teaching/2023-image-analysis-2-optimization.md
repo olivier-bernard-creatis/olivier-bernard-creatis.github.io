@@ -12,7 +12,7 @@ French course on the optimization steps involved in neural networks. The followi
 
 <br>
 
-[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//teaching_optimization_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_optimization_2023.pdf)
+[![Teaching optimization](https://olivier-bernard-creatis.github.io//images//teaching_optimization_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_optimization_2023.pdf)
 
 
 
