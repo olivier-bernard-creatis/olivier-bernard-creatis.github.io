@@ -13,7 +13,7 @@ Deep learning methods have allowed major advances in many specific areas such as
 
 <br>
 
-[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//talk_livia_2023.png)](https://olivier-bernard-creatis.github.io//files//livia_bernard_2023.pdf)
+[![talk LIVIA lab. 2023](https://olivier-bernard-creatis.github.io//images//talk_livia_2023.png)](https://olivier-bernard-creatis.github.io//files//livia_bernard_2023.pdf)
 
 
 

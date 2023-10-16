@@ -12,7 +12,7 @@ In this presentation, I taught the formalism of the variational auto-encoder and
 
 <br>
 
-[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//talk_deepimaging_2023.png)](https://olivier-bernard-creatis.github.io//files//deepimaging_bernard_2023.pdf)
+[![talk deep imaging school 2023](https://olivier-bernard-creatis.github.io//images//talk_deepimaging_2023.png)](https://olivier-bernard-creatis.github.io//files//deepimaging_bernard_2023.pdf)
 
 
 
