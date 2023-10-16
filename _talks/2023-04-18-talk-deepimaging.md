@@ -1,5 +1,5 @@
 ---
-title: "Learning the latent spaces dedicated to the segmentation of medical imaging"
+title: "Generative models - variational auto-encoder"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2023-04-18-talk-deepimaging
