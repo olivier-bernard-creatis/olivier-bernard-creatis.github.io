@@ -31,9 +31,13 @@ Academic Positions
   * EPFL, Lausanne, Switzerland
   * [BIG](https://bigwww.epfl.ch/) - Biomedical Imaging Group
   
-Responsability
+Responsabilities
 ======
-* Since 2020: in charge of the research [MYRIAD](https://creatis-myriad.github.io/) team at the CREATIS laboratory.
+* Since 2020: in charge of the research [MYRIAD](https://creatis-myriad.github.io/) team at the CREATIS laboratory
+* Since 2023: associate editor of IEEE transactions on on Ultrasonics, Ferroelectrics, and Frequency Control
+* 2022: associate editor of IEEE ISBI'22 international conference
+* 2013-2016: associate editor of IEEE transactions on Image Processing
+* 2014: associate editor of IEEE ICIP'14 and ISBI'14 international conferences
 
 Doctoral and Scientific Supervision
 ======
