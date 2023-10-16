@@ -19,19 +19,19 @@ Academic Positions
 ======
 * Since 2021: Full professor
   * INSA, University of Lyon, France
-  * Electrical engineering departement
-  * CREATIS Laboratory
+  * Electrical Engineering Departement
+  * [CREATIS](https://www.creatis.insa-lyon.fr/site/en) Laboratory
 
 * 2007-2021: Associate professor
   * INSA, University of Lyon, France
-  * Electrical engineering departement
-  * CREATIS Laboratory
+  * Electrical Engineering Departement
+  * [CREATIS](https://www.creatis.insa-lyon.fr/site/en) Laboratory
   
 * 2007: Postdoctoral fellow
   * EPFL, Lausanne, Switzerland
-  * Biomedical Imaging Group
+  * [BIG](https://bigwww.epfl.ch/) - Biomedical Imaging Group
   
-Responsabilities
+Responsability
 ======
 * Since 2020: in charge of the research [MYRIAD](https://creatis-myriad.github.io/) team at the CREATIS laboratory.
 
@@ -42,13 +42,13 @@ Doctoral and Scientific Supervision
 * 2 research engineers
 * 18 master students
 
-Publications
+Publications (since 2022)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (since 2023)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
