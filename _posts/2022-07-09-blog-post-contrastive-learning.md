@@ -12,7 +12,5 @@ The aim of this post is to present the key stages/concepts of contrastive learni
 
 You can access to this post by clicking on the image below.
 
-<br>
-
 [![post VAE 2022](https://olivier-bernard-creatis.github.io//images//simCLR_overview.jpg)](https://creatis-myriad.github.io/tutorials/2022-06-20-tutorial_contrastive_learning.html)
 
