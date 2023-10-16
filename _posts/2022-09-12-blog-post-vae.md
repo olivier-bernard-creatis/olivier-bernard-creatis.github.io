@@ -11,9 +11,9 @@ tags:
 
 This is a post I wrote to explain the mathematics behind variational autoencoders. 
 
-You can access to this post by clicking on the following [link](https://creatis-myriad.github.io/tutorials/2022-09-12-tutorial-vae.html)
+You can access to this post by clicking on the image below.
 
 <br>
 
-[![post VAE 2022](https://olivier-bernard-creatis.github.io//images//vae_final_representation.jpg)](https://creatis-myriad.github.io/tutorials/2022-09-12-tutorial-vae.html)
+[![post VAE 2022](https://olivier-bernard-creatis.github.io//images//vae_training.jpg)](https://creatis-myriad.github.io/tutorials/2022-09-12-tutorial-vae.html)
 

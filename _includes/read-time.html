@@ -6,11 +6,11 @@
 
 {% if site.words_per_minute %}
   {% if words < 180 %}
-	  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 10 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	  {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 10 {{ site.data.ui-text[site.locale].minute_read | default: "minutes read" }}
 	{% elsif words < 360 %}
-	  10 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	  10 {{ site.data.ui-text[site.locale].minute_read | default: "minutes read" }}
 	{% else %}
-	  {{ words | divided_by:site.words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+	  {{ words | divided_by:site.words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minutes read" }}
 	{% endif %}
 {% else %}
   {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}
