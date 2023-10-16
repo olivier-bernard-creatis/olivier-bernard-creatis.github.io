@@ -1,9 +1,9 @@
 ---
-title: "Seminar on echocardiographic image segmentation"
+title: "Segmentation in echocardiography: is the problem finally solved ?"
 collection: talks
 type: "Seminar"
 permalink: /talks/2023-09-06-talk-livia
-venue: "LIVIA seminar"
+venue: "LIVIA laboratory"
 date: 2023-09-06
 location: "Montreal, Canada"
 ---
