@@ -1,5 +1,5 @@
 ---
-title: "Convotional neural networks"
+title: "Convolutional neural networks"
 collection: teaching
 type: "Course"
 permalink: /teaching/2023-image-analysis-3-cnn

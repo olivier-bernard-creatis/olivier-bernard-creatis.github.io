@@ -1,5 +1,5 @@
 ---
-title: "Sampling and Quantization"
+title: "Sampling and quantization"
 collection: teaching
 type: "Course"
 permalink: /teaching/2022-signal-analysis-2-sampling-quantization
@@ -8,7 +8,7 @@ date: 2022-10-01
 location: "Lyon, France"
 ---
 
-French course on signal sampling and quantification. The following aspects are covered: modeling of the sampling and quantization operations, energy assessment of the acquisition chain.
+French course on signal sampling and quantization. The following aspects are covered: modeling of the sampling and quantization operations, energy assessment of the acquisition chain.
 
 <br>
 
