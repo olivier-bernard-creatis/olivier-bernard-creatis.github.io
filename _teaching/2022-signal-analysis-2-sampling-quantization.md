@@ -1,0 +1,19 @@
+---
+title: "Sampling and Quantization"
+collection: teaching
+type: "Course"
+permalink: /teaching/2022-signal-analysis-2-sampling-quantization
+venue: "INSA, university of Lyon, electrical department"
+date: 2022-10-01
+location: "Lyon, France"
+---
+
+French course on signal sampling and quantification. The following aspects are covered: modeling of the sampling and quantization operations, energy assessment of the acquisition chain.
+
+<br>
+
+[![talk IUS 2023](https://olivier-bernard-creatis.github.io//images//teaching_signal_modeling_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_sampling_quantization_2023.pdf)
+
+
+
+

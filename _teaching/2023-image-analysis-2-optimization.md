@@ -8,7 +8,7 @@ date: 2023-10-09
 location: "Lyon, France"
 ---
 
-French course on the optimization steps in neural networks. The following aspects are covered: mini-batch gradient descent, momentum/RMSprop/ADAM scheme, batch normalization, dropout, training/validation/test scheme.
+French course on the optimization steps involved in neural networks. The following aspects are covered: mini-batch gradient descent, momentum/RMSprop/ADAM scheme, batch normalization, dropout, training/validation/test scheme.
 
 <br>
 
