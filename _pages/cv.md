@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering school at INSA, Electrical Departement, University of Lyon, France, 2003
+* M.S. at INSA, University of Lyon, France, 2003
+* Ph.D in Medical Image Analysis, INSA, University of Lyon, France, 2006
 
-Work experience
+Academic Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2021: Full professor
+  * INSA, University of Lyon, France
+  * Electrical engineering departement
+  * CREATIS Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2007-2021: Associate professor
+  * INSA, University of Lyon, France
+  * Electrical engineering departement
+  * CREATIS Laboratory
   
-Skills
+* 2007: Postdoctoral fellow
+  * EPFL, Lausanne, Switzerland
+  * Biomedical Imaging Group
+  
+Responsabilities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Since 2020: in charge of the research [MYRIAD](https://creatis-myriad.github.io/) team at the CREATIS laboratory.
+
+Doctoral and Scientific Supervision
+======
+* 11 PhD students
+* 2 postdoctoral fellows
+* 2 research engineers
+* 18 master students
 
 Publications
 ======
@@ -54,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
