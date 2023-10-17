@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivier Bernard"
 title_separator          : "-"
 name                     : &name "Olivier Bernard"
-description              : &description "Professor at the University of Lyon (INSA) and the Creatis lab."
+description              : &description "Professor at the University of Lyon (INSA) and deputy director of the CREATIS laboratory"
 url                      : https://olivier-bernard-creatis.github.io/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "olivier-bernard-creatis/olivier-bernard-creatis.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olivier Bernard"
   avatar           : "picture_olivier.png"
-  bio              : "Professor at the university of Lyon (INSA), France and deputy director of the Creatis laboratory"
+  bio              : "Professor at the university of Lyon (INSA), France and deputy director of the CREATIS laboratory" 
   location         : "Lyon, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
