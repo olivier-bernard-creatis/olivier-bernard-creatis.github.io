@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<hr align=center width="100">
+
 Education
 ======
 * Engineering school at INSA, Electrical Departement, university of Lyon, France, 2003
 * M.S. at university of Lyon - INSA, France, 2003
 * Ph.D in Medical Image Analysis, university of Lyon - INSA, France, 2006
+
+<hr align=center width="100">
 
 Academic Positions
 ======
@@ -31,6 +35,8 @@ Academic Positions
   * EPFL, Lausanne, Switzerland
   * [BIG](https://bigwww.epfl.ch/) laboratory - Biomedical Imaging Group
   
+<hr align=center width="100">
+
 Responsabilities
 ======
 * Since 2023: deputy director of the CREATIS laboratory
@@ -40,10 +46,14 @@ Responsabilities
 * 2013-2016: associate editor of IEEE transactions on Image Processing
 * 2014: associate editor of IEEE ICIP'14 and ISBI'14 international conferences
 
+<hr align=center width="100">
+
 Research Projects (since 2022)
 ======
 * 2023-2027: workpackage leader of the CHRONICARDIO project (french ANR-PEPR digital health grant)
 * 2022-2026: principal investigator of the [ORCHID](https://orchid-anr.github.io/) project (french ANR-PRC grant) 
+
+<hr align=center width="100">
 
 Doctoral and Scientific Supervision
 ======
@@ -52,18 +62,24 @@ Doctoral and Scientific Supervision
 * 2 research engineers
 * 18 master students
 
+<hr align=center width="100">
+
 Publications (since 2022)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<hr align=center width="100">
+
 Talks (since 2023)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+<hr align=center width="100">
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
