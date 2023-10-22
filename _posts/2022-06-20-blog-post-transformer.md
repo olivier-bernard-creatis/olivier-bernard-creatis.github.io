@@ -7,7 +7,7 @@ tags:
   - encoder
 ---
 
-This is a post I wrote to explain the mathematics behind transformer. 
+Are you interested in understanding the mathematics that underlie the transformer? If so, this post is tailored for you! 
 
 You can access to this post by clicking on the image below.
 

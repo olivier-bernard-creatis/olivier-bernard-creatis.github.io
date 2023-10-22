@@ -9,7 +9,7 @@ tags:
   - VAE
 ---
 
-This is a post I wrote to explain the mathematics behind conditional variational autoencoders and the differences with conventional variational autoencoders.
+In this post I explain the mathematics behind conditional variational autoencoders and the differences with conventional variational autoencoders.
 
 You can access to this post by clicking on the image below.
 
