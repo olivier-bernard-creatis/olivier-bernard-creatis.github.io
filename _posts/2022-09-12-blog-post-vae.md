@@ -9,7 +9,7 @@ tags:
   - VAE
 ---
 
-This is a post I wrote to explain the mathematics behind variational autoencoders. 
+This post is aimed at those who want to understand the mathematical framework of variational autoencoders and its implementation in deep learning.
 
 You can access to this post by clicking on the image below.
 
