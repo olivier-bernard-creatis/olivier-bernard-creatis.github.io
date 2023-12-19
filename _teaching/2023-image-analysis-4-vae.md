@@ -1,5 +1,5 @@
 ---
-title: "Varitional Auto-encoders"
+title: "Variational Auto-encoders"
 collection: teaching
 type: "Course"
 permalink: /teaching/2023-image-analysis-4-vae
