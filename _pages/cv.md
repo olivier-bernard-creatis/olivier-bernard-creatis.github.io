@@ -41,9 +41,8 @@ Responsabilities
 ======
 * Since 2023: Deputy director of the CREATIS laboratory
 * Since 2023: Meta-Reviewer of IEEE ISBI international conference
-* Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
 * Since 2023: Associate editor of IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-* 2022: Associate editor of IEEE ISBI'22 international conference
+* Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
 * 2013-2016: Associate editor of IEEE transactions on Image Processing
 * 2014: Associate editor of IEEE ICIP'14 and ISBI'14 international conferences
 
@@ -51,15 +50,15 @@ Responsabilities
 
 Research Projects (since 2022)
 ======
-* 2023-2027: workpackage leader of the CHRONICARDIO project (french ANR-PEPR digital health grant)
-* 2022-2026: principal investigator of the [ORCHID](https://orchid-anr.github.io/) project (french ANR-PRC grant) 
+* 2023-2027: Workpackage leader of the CHRONICARDIO project (french ANR-PEPR digital health grant)
+* 2022-2026: Principal investigator of the [ORCHID](https://orchid-anr.github.io/) project (french ANR-PRC grant) 
 
 <hr align=center width="100">
 
 Doctoral and Scientific Supervision
 ======
-* 11 PhD students
-* 2 postdoctoral fellows
+* 13 PhD students
+* 3 postdoctoral fellows
 * 2 research engineers
 * 18 master students
 
