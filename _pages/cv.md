@@ -39,12 +39,13 @@ Academic Positions
 
 Responsabilities
 ======
-* Since 2023: deputy director of the CREATIS laboratory
-* Since 2020: head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
-* Since 2023: associate editor of IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-* 2022: associate editor of IEEE ISBI'22 international conference
-* 2013-2016: associate editor of IEEE transactions on Image Processing
-* 2014: associate editor of IEEE ICIP'14 and ISBI'14 international conferences
+* Since 2023: Deputy director of the CREATIS laboratory
+* Since 2023: Meta-Reviewer of IEEE ISBI international conference
+* Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
+* Since 2023: Associate editor of IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+* 2022: Associate editor of IEEE ISBI'22 international conference
+* 2013-2016: Associate editor of IEEE transactions on Image Processing
+* 2014: Associate editor of IEEE ICIP'14 and ISBI'14 international conferences
 
 <hr align=center width="100">
 
