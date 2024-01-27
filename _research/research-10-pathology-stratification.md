@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneous data fusion for continuous patient stratification"
-excerpt: "We developed a transformer-based approach to efficiently merge information extracted from echocardiographic images and data from electronic health records to learn the continuous representation of patients with hypertension.
+excerpt: "We developed a transformer-based approach to efficiently merge information extracted from echocardiographic image sequences and data from electronic health records to learn the continuous representation of patients with hypertension.
 <br/><br/>
 <img src='/images/research-HT-stratification.png'>"
 collection: research
