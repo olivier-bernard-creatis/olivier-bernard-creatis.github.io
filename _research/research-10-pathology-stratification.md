@@ -8,14 +8,15 @@ collection: research
 
 This work was done by my PhD student <strong>Nathan Painchaud</strong> in co-supervision with Pr. <strong>Pierre-Marc Jodoin</strong> at the university of Sherbrooke and expert in AI.
 
-We have developed an nnU-Net architecture that produces highly accurate segmentation scores within intra-observer variability. This pilot study demonstrated that our solution can reproduce with great fidelity the way in which an expert traces his or her contours during a clinical examination. These results have been validated using a CAMUS data set comprising echocardiographic images from 500 patients. The image below shows an example of what we can achieve in a fully automatic way.
+"We developed a transformer-based approach to efficiently merge information extracted from echocardiographic image sequences and data from electronic health records to learn the continuous representation of patients with hypertension. Our method first projects each variable into its own representation space using modality-specific approaches. These standardized representations of multimodal data are then fed to a transformer encoder, which learns to merge them into a comprehensive representation of the patient through a fine-tuning task of predicting a clinical rating. This fine-tuning task is formulated as an ordinal classification to enforce a pathological continuum in the representation space. 
 
 <p style="text-align: center;">
-  <img src="/images/research_segmentation_2.gif" width="300">
+  <img src="/images/research-HT-stratification-full.png">
 </p>
 
-However, the problem of generalization remains entirely open. This corresponds to the ability of our method to produce the same quality of results, but on much larger databases with greater heterogeneity in terms of manufacturers, image quality and type of pathology. We are currently trying to solve the problem of generalization in segmentation through domain adaptation. To do this, we have access to a database with over 120,000 echocardiographic image sequences. We are currently investigating various solutions, one of the most promising being based on reinforcement learning.
+We observe the major trends along this continuum for a cohort of 239 hypertensive patients to describe, with unprecedented gradation, the effect of hypertension on a number of cardiac function descriptors. Our analysis shows that i) pretrained weights from a foundation model allow to reach good performance (83% accuracy) even with limited data (less than 200 training samples), ii) trends across the population are reproducible
+between trainings, and iii) for descriptors whose interactions with hypertension are well documented, patterns are consistent with prior physiological knowledge.
 
 <br>
-<img src='/images/research_domain_adaptation_full.png'>
+<img src='/images/research-HT-stratification-result-1.png'>
 
