@@ -8,7 +8,7 @@ collection: research
 
 This work was done by my PhD student <strong>Nathan Painchaud</strong> in co-supervision with Pr. <strong>Pierre-Marc Jodoin</strong> at the university of Sherbrooke and expert in AI.
 
-"We developed a transformer-based approach to efficiently merge information extracted from echocardiographic image sequences and data from electronic health records to learn the continuous representation of patients with hypertension. Our method first projects each variable into its own representation space using modality-specific approaches. These standardized representations of multimodal data are then fed to a transformer encoder, which learns to merge them into a comprehensive representation of the patient through a fine-tuning task of predicting a clinical rating. This fine-tuning task is formulated as an ordinal classification to enforce a pathological continuum in the representation space. 
+We developed a transformer-based approach to efficiently merge information extracted from echocardiographic image sequences and data from electronic health records to learn the continuous representation of patients with hypertension. Our method first projects each variable into its own representation space using modality-specific approaches. These standardized representations of multimodal data are then fed to a transformer encoder, which learns to merge them into a comprehensive representation of the patient through a fine-tuning task of predicting a clinical rating. This fine-tuning task is formulated as an ordinal classification to enforce a pathological continuum in the representation space. 
 
 <p style="text-align: center;">
   <img src="/images/research-HT-stratification-full.png">
@@ -19,4 +19,14 @@ between trainings, and iii) for descriptors whose interactions with hypertension
 
 <br>
 <img src='/images/research-HT-stratification-result-1.png'>
+
+<br>
+<img src='/images/research-HT-stratification-result-2.png'>
+
+<br>
+<img src='/images/research-HT-stratification-result-3.png'>
+
+<br>
+<img src='/images/research-HT-stratification-result-4.png'>
+
 
