@@ -29,4 +29,6 @@ between trainings, and iii) for descriptors whose interactions with hypertension
 <br>
 <img src='/images/research-HT-stratification-result-4.png'>
 
+<br>
+<img src='/images/research-HT-stratification-result-5.png'>
 
