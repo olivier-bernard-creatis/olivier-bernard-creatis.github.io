@@ -37,10 +37,6 @@ Key recent publications
 > Arxiv (2024) <br>
 > Nathan Painchaud, Pierre-Yves Courand, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
 
-> **Asymmetric Contour Uncertainty Estimation for Medical Image Segmentation** <br>
-> MICCAI (2023) <br>
-> Thierry Judge, Olivier Bernard, Woo-Jin Cho Kim, Alberto Gomez, Agis Chartsias, Pierre-Marc Jodoin
-
 > **Phase Unwrapping of Color Doppler Echocardiography using Deep Learning** <br>
 > IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (2023) <br>
 > Hang Jung Ling, Olivier Bernard, Nicolas Ducros, Damien Garcia
@@ -52,6 +48,10 @@ Key recent publications
 > **Motion estimation by deep learning in 2D echocardiography: synthetic dataset and validation** <br>
 > IEEE Transactions on Medical Imaging (2022) <br>
 > Ewan Evain, Yunyun Sun, Khuram Faraz, Damien Garcia, Eric Saloux, Bernhard L. Gerber, Mathieu de Craene, Olivier Bernard
+
+> **Asymmetric Contour Uncertainty Estimation for Medical Image Segmentation** <br>
+> MICCAI (2023) <br>
+> Thierry Judge, Olivier Bernard, Woo-Jin Cho Kim, Alberto Gomez, Agis Chartsias, Pierre-Marc Jodoin
 
 > **CRISP - Reliable Uncertainty Estimation for Medical Image Segmentation** <br>
 > MICCAI (2022) <br>
