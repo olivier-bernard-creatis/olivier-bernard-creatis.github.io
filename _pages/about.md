@@ -30,7 +30,7 @@ Research profile
 
 <hr align=center width="100">
 
-Key recent publications
+Key (recent) publications
 ======
 
 > **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
