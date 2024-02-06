@@ -30,8 +30,12 @@ Research profile
 
 <hr align=center width="100">
 
-Key publications
+Key recent publications
 ======
+
+> **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
+> Arxiv (2024) <br>
+> Nathan Painchaud, Pierre-Yves Courand, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
 
 > **Asymmetric Contour Uncertainty Estimation for Medical Image Segmentation** <br>
 > MICCAI (2023) <br>
