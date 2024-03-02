@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Engineering school at INSA, Electrical Departement, university of Lyon, France, 2003
-* M.S. at university of Lyon - INSA, France, 2003
+* M.S. in imaging, signal and system at university of Lyon - INSA, France, 2003
 * Ph.D in medical image analysis, university of Lyon - INSA, France, 2006
 
 <hr align=center width="100">
