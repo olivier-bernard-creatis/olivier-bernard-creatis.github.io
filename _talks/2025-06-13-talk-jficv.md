@@ -8,7 +8,7 @@ date: 2024-06-13
 location: "Pessac, France"
 ---
 
-AI tools have demonstrated their efficiency in numerous cardiac applications for several years now. I this presentation, I describe (in french) four examples of applications where AI has revolutionized the status quo and enabled significant advancements towards precise, robust, and reproducible automation of routine clinical measurements, i.e. standardized acquisitions, extraction of anatomical indices, extraction of functional indices, Uncertainty modeling
+AI tools have demonstrated their efficiency in numerous cardiac applications for several years now. In this presentation, I describe (in french) four examples of applications where AI has revolutionized the status quo and enabled significant advancements towards precise, robust, and reproducible automation of routine clinical measurements, i.e. standardized acquisitions, extraction of anatomical indices, extraction of functional indices and uncertainty modeling
 
 <br>
 
