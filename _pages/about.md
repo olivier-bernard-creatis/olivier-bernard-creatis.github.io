@@ -23,8 +23,9 @@ Research profile
 ======
 
 - Representation learning, heterogeneous data fusion
-- Quantification of clinical indices from imaging
+- Physics-guided artificial intelligence
 - Uncertainty modeling
+- Quantification of clinical indices from imaging
 - Vector flow imaging, intracardiac blood flow
 - Cardiac imaging, echocardiography, realistic simulations
 
