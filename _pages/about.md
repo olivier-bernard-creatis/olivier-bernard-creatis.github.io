@@ -24,10 +24,10 @@ Research profile
 
 - Representation learning, heterogeneous data fusion
 - Physics-guided artificial intelligence
+- Domain adaptation through reinforcement learning
 - Uncertainty modeling
 - Quantification of clinical indices from imaging
-- Vector flow imaging, intracardiac blood flow
-- Cardiac imaging, echocardiography, realistic simulations
+- Cardiac imaging, vector flow imaging, simulation imaging
 
 <hr align=center width="100">
 
