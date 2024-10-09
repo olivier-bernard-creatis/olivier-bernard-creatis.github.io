@@ -8,13 +8,7 @@ date: 2023-10-09
 location: "Lyon, France"
 ---
 
-French course on neural network. The following aspects are covered: 
-- modeling of a perceptron
-- modeling of a neural network
-- activation functions
-- backpropagation principle
-- loss function
-- gradient descent needs
+French course on neural network. The following aspects are covered: modeling of a perceptron, modeling of a neural network, activation functions,  backpropagation principle, loss function, gradient descent needs.
 
 The Jupyter notebook associated with this course is available [here](https://olivier-bernard-creatis.github.io//files//pytorch_mnist_mlp.ipynb). 
 
