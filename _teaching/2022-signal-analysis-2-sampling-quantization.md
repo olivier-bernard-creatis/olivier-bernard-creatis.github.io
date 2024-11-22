@@ -8,7 +8,8 @@ date: 2023-09-26
 location: "Lyon, France"
 ---
 
-French course on signal sampling and quantization. The following aspects are covered: modeling of the sampling and quantization operations, energy assessment of the acquisition chain.
+French course on signal sampling and quantization. The following aspects are covered: modeling of the sampling and quantization operations, energy assessment of the acquisition chain.<br>
+[[pdf-fr]](https://olivier-bernard-creatis.github.io//files//teaching_sampling_quantization_2023.pdf)
 
 <br>
 

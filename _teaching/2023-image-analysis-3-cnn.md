@@ -8,7 +8,8 @@ date: 2023-10-11
 location: "Lyon, France"
 ---
 
-French course on convolutional neural network. The following aspects are covered: convolutional layer, feature maps, receptive field, classification, segmentation.
+French course on convolutional neural network. The following aspects are covered: convolutional layer, feature maps, receptive field, classification, segmentation.<br>
+[[pdf-fr]](https://olivier-bernard-creatis.github.io//files//teaching_cnn_2023.pdf)
 
 <br>
 

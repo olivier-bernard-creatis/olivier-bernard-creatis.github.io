@@ -8,7 +8,8 @@ date: 2023-09-25
 location: "Lyon, France"
 ---
 
-French course on signal modeling. The following aspects are covered: basic signals / elementary operations, linear time-invariant systems, Fourier transform.
+French course on signal modeling. The following aspects are covered: basic signals / elementary operations, linear time-invariant systems, Fourier transform.<br>
+[[pdf-fr]](https://olivier-bernard-creatis.github.io//files//teaching_signal_modeling_2023.pdf)
 
 <br>
 
