@@ -3,7 +3,7 @@ title: "Diffusion model"
 collection: teaching
 type: "Course"
 permalink: /teaching/2024-image-analysis-6-dissufion-model
-venue: "INSA, university of Lyon, electrical department"
+venue: "INSA, university of Lyon, telecommunications department"
 date: 2024-11-22
 location: "Lyon, France"
 ---
