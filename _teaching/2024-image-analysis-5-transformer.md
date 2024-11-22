@@ -13,7 +13,7 @@ French course on transformers. The following aspects are covered: tokenisation, 
 
 <br>
 
-[![Teaching transformer](https://olivier-bernard-creatis.github.io//images//teaching_transformer_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_transformer_2024_fr.pdf)
+[![Teaching transformer](https://olivier-bernard-creatis.github.io//images//teaching_vae_2024_en.png)](https://olivier-bernard-creatis.github.io//files//teaching_transformer_2024_fr.pdf)
 
 
 
