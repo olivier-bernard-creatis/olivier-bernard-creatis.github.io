@@ -13,7 +13,7 @@ Course on variational auto-encoder networks. The following aspects are covered: 
 
 <br>
 
-[![Teaching VAE](https://olivier-bernard-creatis.github.io//images//teaching_vae_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_vae_2024_en.pdf)
+[![Teaching VAE](https://olivier-bernard-creatis.github.io//images//teaching_vae_2024_en.png)](https://olivier-bernard-creatis.github.io//files//teaching_vae_2024_en.pdf)
 
 
 
