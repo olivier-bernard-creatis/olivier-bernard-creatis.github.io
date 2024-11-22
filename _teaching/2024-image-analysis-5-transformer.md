@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2023-image-analysis-5-transformer
 venue: "INSA, university of Lyon, electrical department"
-date: 2023-11-08
+date: 2024-11-20
 location: "Lyon, France"
 ---
 

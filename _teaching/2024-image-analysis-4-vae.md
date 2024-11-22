@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2024-image-analysis-4-vae
 venue: "INSA, university of Lyon, electrical department"
-date: 2024-11-21
+date: 2024-11-19
 location: "Lyon, France"
 ---
 
