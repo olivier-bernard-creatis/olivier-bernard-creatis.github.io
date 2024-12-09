@@ -16,7 +16,7 @@ Education
 * Authorization to supervise research (HDR, French diploma), university of Lyon - INSA, France, 2019
 * Ph.D in medical image analysis, university of Lyon - INSA, France, 2006
 * M.S. in imaging, signal and system at university of Lyon - INSA, France, 2003
-* Engineering degree in the Eletrical Departement, university of Lyon - INSA, France, 2003
+* Engineering degree in the electrical departement of INSA, university of Lyon, France, 2003
 
 <hr align=center width="100">
 
