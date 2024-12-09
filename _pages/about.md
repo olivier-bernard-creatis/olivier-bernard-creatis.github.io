@@ -13,7 +13,6 @@ redirect_from:
 - Head of the [MYRIAD](https://creatis-myriad.github.io/) Image analysis and modeling research team at CREATIS
 - Associate editor of the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 - Technical committee member of [MIDL](https://www.midl.io/) international conference
-- Meta-reviewer of IEEE ISBI international conference
 - Previously, Associate editor of the IEEE Transactions on Image Processing ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 
 

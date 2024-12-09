@@ -13,9 +13,10 @@ redirect_from:
 
 Education
 ======
-* Engineering school at INSA, Electrical Departement, university of Lyon, France, 2003
-* M.S. in imaging, signal and system at university of Lyon - INSA, France, 2003
+* Authorization to supervise research (HDR, French diploma), university of Lyon - INSA, France, 2019
 * Ph.D in medical image analysis, university of Lyon - INSA, France, 2006
+* M.S. in imaging, signal and system at university of Lyon - INSA, France, 2003
+* Engineering degree in the Eletrical Departement, university of Lyon - INSA, France, 2003
 
 <hr align=center width="100">
 
@@ -42,8 +43,8 @@ Responsabilities
 * Since 2024: Technical Committee member of [MIDL](https://www.midl.io/) international conference
 * Since 2023: Deputy director of the CREATIS laboratory
 * Since 2023: Associate editor of IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-* Since 2022: Meta-Reviewer of IEEE ISBI international conference
 * Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
+* 2022-2024: Meta-Reviewer of IEEE ISBI international conference
 * 2013-2016: Associate editor of IEEE transactions on Image Processing
 * 2014: Meta-Reviewer of IEEE ICIP'14 and ISBI'14 international conferences
 
