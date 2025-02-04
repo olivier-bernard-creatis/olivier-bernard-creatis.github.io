@@ -47,7 +47,7 @@ Responsabilities
 * Since 2023: Associate editor of the IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control journal ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 * Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
 * 2022-2024: Meta-Reviewer of IEEE ISBI international conference
-* 2013-2016: Associate editor of IEEE transactions on Image Processing
+* 2013-2016: Associate editor of the IEEE transactions on Image Processing journal ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 * 2014: Meta-Reviewer of IEEE ICIP'14 and ISBI'14 international conferences
 
 <hr align=center width="100">
