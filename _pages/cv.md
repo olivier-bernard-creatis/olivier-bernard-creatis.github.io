@@ -40,11 +40,11 @@ Academic Positions
 
 Responsabilities
 ======
-* Since 2025: Guest associate editor of IEEE transactions on Medical Imaging ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
+* Since 2025: Guest associate editor of the IEEE transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 * Since 2025: Associate editor of the European Heart Journal, Cardiovascular Imaging ([EHJ-CI](https://academic.oup.com/ehjcimaging))
 * Since 2024: Technical Committee member of [MIDL](https://www.midl.io/) international conference
 * Since 2023: Deputy director of the CREATIS laboratory
-* Since 2023: Associate editor of IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
+* Since 2023: Associate editor of the IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control journal ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 * Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
 * 2022-2024: Meta-Reviewer of IEEE ISBI international conference
 * 2013-2016: Associate editor of IEEE transactions on Image Processing
