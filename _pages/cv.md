@@ -40,6 +40,7 @@ Academic Positions
 
 Responsabilities
 ======
+* Since 2025: Guest associate editor of IEEE transactions on Medical Imaging ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 * Since 2025: Associate editor of the European Heart Journal, Cardiovascular Imaging ([EHJ-CI](https://academic.oup.com/ehjcimaging))
 * Since 2024: Technical Committee member of [MIDL](https://www.midl.io/) international conference
 * Since 2023: Deputy director of the CREATIS laboratory
