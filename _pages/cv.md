@@ -64,7 +64,7 @@ Doctoral and Scientific Supervision
 * 13 PhD students
 * 3 postdoctoral fellows
 * 2 research engineers
-* 18 master students
+* 19 master students
 
 <hr align=center width="100">
 
