@@ -1,5 +1,5 @@
 ---
-title: "Sampling and quantization"
+title: "Random signals"
 collection: teaching
 type: "Course"
 permalink: /teaching/2022-signal-analysis-2-random-signal
@@ -13,7 +13,7 @@ French course on the characterization of random signals. The following aspects a
 
 <br>
 
-[![Teaching sampling](https://olivier-bernard-creatis.github.io//images//teaching_signal_modeling_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_sampling_quantization_2023.pdf)
+[![Teaching sampling](https://olivier-bernard-creatis.github.io//images//teaching_signal_modeling_2023.png)](https://olivier-bernard-creatis.github.io//files//teaching_random_signals_2023.pdf)
 
 
 
