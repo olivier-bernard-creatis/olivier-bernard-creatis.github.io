@@ -22,6 +22,9 @@ Education
 
 Academic Positions
 ======
+* Since 2025: Senior member of the [Institut Universitaire de France](https://www.iufrance.fr/) (IUF)
+  * Project: IRIS - artificial intelligence enhanced by knowledge integration for the interpretable and
+explainable diagnosis of cardiac pathologies
 * Since 2021: Professor of image and signal processing
   * University of Lyon - INSA, France
   * Electrical engineering departement
