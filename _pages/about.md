@@ -36,9 +36,9 @@ Research profile
 Key (recent) publications
 ======
 
-> **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
-> Arxiv (2024) <br>
-> Nathan Painchaud, Pierre-Yves Courand, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
+> **DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis** <br>
+> MIDL (2025) <br>
+> Jérémie Stym-Popper, Nathan Painchaud, Clément Rambour, Pierre-Yves Courand, Nicolas Thome, Olivier Bernard
 
 > **Domain Adaptation of Echocardiography Segmentation Via Reinforcement Learning** <br>
 > MICCAI (2024) <br>
