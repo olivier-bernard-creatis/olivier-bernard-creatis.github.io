@@ -16,7 +16,7 @@ redirect_from:
 - Associate editor of the European Heart Journal, Cardiovascular Imaging ([EHJ-CI](https://academic.oup.com/ehjcimaging))
 - Associate editor of the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control journal ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
 - Technical committee member of [MIDL](https://www.midl.io/) international conference
-- Previously, Associate editor of the IEEE Transactions on Image Processing journal ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
+- Previously, associate editor of the IEEE Transactions on Image Processing journal ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 
 
 <hr align=center width="100">
@@ -24,17 +24,21 @@ redirect_from:
 Research profile
 ======
 
+- Quantification of clinical indices from imaging
 - Representation learning, heterogeneous data fusion
-- Physics-guided artificial intelligence
 - Domain adaptation through reinforcement learning
 - Uncertainty modeling
-- Quantification of clinical indices from imaging
+- Physics-guided artificial intelligence
 - Cardiac imaging, vector flow imaging, simulation imaging
 
 <hr align=center width="100">
 
 Key (recent) publications
 ======
+
+> **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
+> IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025) <br>
+> Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
 
 > **DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis** <br>
 > MIDL (2025) <br>
