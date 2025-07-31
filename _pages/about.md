@@ -24,21 +24,23 @@ redirect_from:
 Research profile
 ======
 
-- Quantification of clinical indices from imaging
+- Quantification of biomarkers from imaging
 - Representation learning, heterogeneous data fusion
 - Domain adaptation through reinforcement learning
 - Uncertainty modeling
 - Physics-guided artificial intelligence
-- Cardiac imaging, vector flow imaging, simulation imaging
+- Cardiac imaging, vector flow imaging, simulated imaging
 
 <hr align=center width="100">
 
 Key (recent) publications
 ======
 
+<!--
 > **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
 > IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025) <br>
 > Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
+-->
 
 > **DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis** <br>
 > MIDL (2025) <br>
@@ -52,12 +54,11 @@ Key (recent) publications
 > IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2024) <br>
 > Hang Jung Ling, Salomé Bru, Julia Puig, Florian Vixège, Simon Mendez, Franck Nicoud, Pierre-Yves Courand, Olivier Bernard, Damien Garcia
 
-> **Echocardiography Segmentation with Enforced Temporal Consistency** <br>
-> IEEE Transactions on Medical Imaging (2022) <br>
-> Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
-
 > **Asymmetric Contour Uncertainty Estimation for Medical Image Segmentation** <br>
 > MICCAI (2023) <br>
 > Thierry Judge, Olivier Bernard, Woo-Jin Cho Kim, Alberto Gomez, Agis Chartsias, Pierre-Marc Jodoin
 
+> **Echocardiography Segmentation with Enforced Temporal Consistency** <br>
+> IEEE Transactions on Medical Imaging (2022) <br>
+> Nathan Painchaud, Nicolas Duchateau, Olivier Bernard, Pierre-Marc Jodoin
 
