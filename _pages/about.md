@@ -42,6 +42,10 @@ Key (recent) publications
 > Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
 -->
 
+> **Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods** <br>
+> MICCAI (2025) <br>
+> Romain Deleat-besson, Celia Goujat, Olivier Bernard, Pierre Croisille, Magalie Viallon, Nicolas Duchateau
+
 > **DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis** <br>
 > MIDL (2025) <br>
 > Jérémie Stym-Popper, Nathan Painchaud, Clément Rambour, Pierre-Yves Courand, Nicolas Thome, Olivier Bernard
