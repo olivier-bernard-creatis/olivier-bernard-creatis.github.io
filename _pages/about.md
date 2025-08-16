@@ -36,11 +36,9 @@ Research profile
 Key (recent) publications
 ======
 
-<!--
 > **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
 > IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025) <br>
 > Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
--->
 
 > **Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods** <br>
 > MICCAI (2025) <br>
