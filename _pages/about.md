@@ -40,6 +40,10 @@ Key (recent) publications
 > IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025) <br>
 > Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
 
+> **Estimation of Segmental Longitudinal Strain in Transesophageal Echocardiography by Deep Learning** <br>
+> IEEE Journal of Biomedical and Health Informatics (2025) <br>
+> Anders Austlid Taskén, Thierry Judge, Erik Andreas Rye Berg, Jinyang Yu, Bjørnar Grenne, Frank Lindseth, Svend Aakhus, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard, Gabriel Kiss
+
 > **Controllable latent diffusion model to evaluate the performance of cardiac segmentation methods** <br>
 > MICCAI (2025) <br>
 > Romain Deleat-besson, Celia Goujat, Olivier Bernard, Pierre Croisille, Magalie Viallon, Nicolas Duchateau
