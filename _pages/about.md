@@ -48,6 +48,10 @@ Key (recent) publications
 > MICCAI (2025) <br>
 > Romain Deleat-besson, Celia Goujat, Olivier Bernard, Pierre Croisille, Magalie Viallon, Nicolas Duchateau
 
+> **Medical SAM for LGE-MRI cardiac segmentation: promise or hype?** <br>
+> STACOM (2025) <br>
+> Celia Goujat, Pierre-Marc Jodoin, Loïc Boussel, Olivier Bernard
+
 > **DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis** <br>
 > MIDL (2025) <br>
 > Jérémie Stym-Popper, Nathan Painchaud, Clément Rambour, Pierre-Yves Courand, Nicolas Thome, Olivier Bernard
