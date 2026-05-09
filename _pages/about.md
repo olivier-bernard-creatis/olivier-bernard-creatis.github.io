@@ -36,6 +36,10 @@ Research profile
 Key (recent) publications
 ======
 
+> **Reinforcement Learning for Unsupervised Domain Adaptation in Spatio-Temporal Echocardiography Segmentation** <br>
+> IEEE Transactions on Medical Imaging (2026) <br>
+> Arnaud Judge, Nicolas Duchateau, Thierry Judge, Roman A. Sandler, Joseph Z. Sokol, Christian Desrosiers, Olivier Bernard, Pierre-Marc Jodoin
+
 > **Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification** <br>
 > IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025) <br>
 > Nathan Painchaud, Jérémie Stym-Popper, Pierre-Yves Courand, Nicolas Thome, Pierre-Marc Jodoin, Nicolas Duchateau, Olivier Bernard
