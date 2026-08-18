@@ -10,8 +10,6 @@ location: "St-Etienne, France"
 
 Foundation models have become a major paradigm in artificial intelligence. Trained on very large datasets, they aim to solve a wide range of tasks with little or no additional training. Models such as the Segment Anything Model have demonstrated impressive zero-shot capabilities, opening new perspectives for many applications. In medical imaging, foundation models are particularly attractive for addressing the limited availability of annotated data and improving the robustness of AI models across different imaging devices, institutions, and patient populations. However, adapting these models to the clinical domain remains challenging, and their performance is often still below that of specialized methods. In this course, I present an overview of foundation models for medical imaging, including transformer-based architectures, promptable segmentation models such as MedSAM, multimodal vision-language models, and automatic medical report generation. The course also discusses their current limitations, practical applications, and future perspectives.
 
-<br>
-
 A recording of my talk is available [here](https://www.youtube.com/watch?v=pkDRQWOidHo&t=461s)
 
 <br>
