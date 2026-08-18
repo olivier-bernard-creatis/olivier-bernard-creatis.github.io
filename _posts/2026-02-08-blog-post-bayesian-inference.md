@@ -14,5 +14,5 @@ This post is intended for readers who want to understand the theoretical concept
 
 You can access to this post by clicking on the image below.
 
-[![post Bayesian inference 2026](https://creatis-myriad.github.io//images//in-context-framework.jpg)](https://creatis-myriad.github.io/tutorials/2026-02-07-tutorial-bayesian-inference.html)
+[![post Bayesian inference 2026](https://olivier-bernard-creatis.github.io//images//in-context-framework.jpg)](https://creatis-myriad.github.io/tutorials/2026-02-07-tutorial-bayesian-inference.html)
 
