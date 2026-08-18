@@ -12,6 +12,10 @@ Foundation models have become a major paradigm in artificial intelligence. Train
 
 <br>
 
+A recording of my talk is available [here](https://www.youtube.com/watch?v=pkDRQWOidHo&t=461s)
+
+<br>
+
 [![talk Manutech 2026](https://olivier-bernard-creatis.github.io//images//talk_manutech_2026.png)](https://olivier-bernard-creatis.github.io//files//research-manutech-bernard-2026.pdf)
 
 

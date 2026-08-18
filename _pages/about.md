@@ -12,12 +12,12 @@ redirect_from:
 - Professor of image and signal processing at the university of Lyon - [INSA](https://www.insa-lyon.fr/en/), France
 - Deputy director of [CREATIS](https://www.creatis.insa-lyon.fr/site/en) (Medical Imaging Research Laboratory)
 - Head of the [MYRIAD](https://creatis-myriad.github.io/) Image analysis and modeling research team at CREATIS
-- Guest associate editor of the IEEE Transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
+- Associate editor of the IEEE Transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 - Associate editor of the European Heart Journal, Cardiovascular Imaging ([EHJ-CI](https://academic.oup.com/ehjcimaging))
-- Associate editor of the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control journal ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
+- Associate editor of the IEEE Transactions on Ultrasonics journal ([IEEE TUSON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11073821))
 - Technical committee member of [MIDL](https://www.midl.io/) international conference
+- Previously, guest associate editor of the IEEE Transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 - Previously, associate editor of the IEEE Transactions on Image Processing journal ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
-
 
 <hr align=center width="100">
 
@@ -25,9 +25,10 @@ Research profile
 ======
 
 - Quantification of biomarkers from imaging
-- Representation learning, heterogeneous data fusion
-- Domain adaptation through reinforcement learning
 - Uncertainty modeling
+- Multimodal data integration
+- Representation learning
+- Domain adaptation and diagnosis prediction through reinforcement learning
 - Physics-guided artificial intelligence
 - Cardiac imaging, vector flow imaging, simulated imaging
 
