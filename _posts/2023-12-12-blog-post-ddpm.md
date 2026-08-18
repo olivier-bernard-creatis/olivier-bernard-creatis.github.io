@@ -6,7 +6,7 @@ tags:
   - diffusion model
   - generative model
   - diffusion
-  - generative    
+  - generative
 ---
 
 This post is aimed at those who want to understand the mathematical framework of denoising diffusion probabilistic model and its implementation in deep learning.

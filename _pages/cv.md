@@ -43,12 +43,13 @@ explainable diagnosis of cardiac pathologies
 
 Responsabilities
 ======
-* Since 2025: Guest associate editor of the IEEE transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
+* Since 2026: Associate editor of the IEEE transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 * Since 2025: Associate editor of the European Heart Journal, Cardiovascular Imaging ([EHJ-CI](https://academic.oup.com/ehjcimaging))
 * Since 2024: Technical Committee member of [MIDL](https://www.midl.io/) international conference
 * Since 2023: Deputy director of the CREATIS laboratory
-* Since 2023: Associate editor of the IEEE transactions on Ultrasonics, Ferroelectrics, and Frequency Control journal ([IEEE TUFFC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58))
+* Since 2023: Associate editor of the IEEE transactions on Ultrasonics journal ([IEEE TUSON](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11073821))
 * Since 2020: Head of the [MYRIAD](https://creatis-myriad.github.io/) image analysis and modeling research team at CREATIS
+* 2025-2026: Guest associate editor of the IEEE transactions on Medical Imaging journal ([IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42))
 * 2022-2024: Meta-Reviewer of IEEE ISBI international conference
 * 2013-2016: Associate editor of the IEEE transactions on Image Processing journal ([IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83))
 * 2014: Meta-Reviewer of IEEE ICIP'14 and ISBI'14 international conferences
@@ -57,14 +58,15 @@ Responsabilities
 
 Research Projects (since 2022)
 ======
-* 2023-2027: Workpackage leader of the CHRONICARDIO project (french ANR-PEPR digital health grant)
+* 2026-2030: Head of the CNRS International Research (IRP) SANTAI, in partnership with the University of Sherbrooke (Canada)
+* 2023-2027: Workpackage leader of the [CHRONICARDIO](https://pepr-santenum.fr/en/2023/11/08/chronicardio-en/) project (french ANR-PEPR digital health grant)
 * 2022-2026: Principal investigator of the [ORCHID](https://orchid-anr.github.io/) project (french ANR-PRC grant) 
 
 <hr align=center width="100">
 
 Doctoral and Scientific Supervision
 ======
-* 13 PhD students
+* 14 PhD students
 * 3 postdoctoral fellows
 * 2 research engineers
 * 19 master students
