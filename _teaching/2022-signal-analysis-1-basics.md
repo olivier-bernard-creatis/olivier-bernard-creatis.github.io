@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2022-signal-analysis-1-basics
 venue: "INSA, university of Lyon, electrical department"
-# date: 2023-09-25
+date: 2023-09-25
 location: "Lyon, France"
 ---
 
